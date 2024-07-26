@@ -21,7 +21,7 @@ A bookmark can be stored (eg. on disk, in a database etc.) and reloaded and it w
 
 A bookmark is an opaque data structure, enclosed in a `Data` object, that describes the location of a file. Whereas path and file reference URLs are potentially fragile between launches of your app, a bookmark can usually be used to re-create a URL to a file even in cases where the file was moved or renamed.
 
-Some information links :-
+Some informational links:
 
 * [Locating Files Using Bookmarks](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/AccessingFilesandDirectories/AccessingFilesandDirectories.html#//apple_ref/doc/uid/TP40010672-CH3-SW10)
 * [Enabling Security-Scoped Bookmark and URL Access](https://developer.apple.com/documentation/professional_video_applications/fcpxml_reference/asset/media-rep/bookmark/enabling_security-scoped_bookmark_and_url_access)
